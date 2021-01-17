@@ -1,1 +1,3 @@
-# Final Year Project: Interactive Scheduler
+#  Interactive Scheduler
+
+The purpose of this repo is to keep track of ... 
